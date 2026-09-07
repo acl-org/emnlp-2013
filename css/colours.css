@@ -1,0 +1,77 @@
+
+h1, h2, h3, h4, h1 a, h2 a, h3 a, h4 a
+{ color: #457DD0; }
+
+#introduction h2, #attention {
+ background: #906291;
+ background: rgba(124,78,125,0.85);
+ color: #f7fff7;
+}
+
+
+
+#introduction a, #attention a {
+ color: white;
+ border-color: white;
+}
+
+
+h1 A:hover, h2 A:hover, h3 A:hover, h4 A:hover
+{ color: #457DD0; }
+
+.fees { background: #dcECFF; }
+.fee-schedule span, .fees th, .fees thead {
+  color: #457DD0;
+}
+
+body
+/* { background: #e6f3d3; } */
+/* { background: #dCEBcc; } */
+{ background: #E0DCEC; }
+
+.header, #content {
+ background: white;
+ /* *
+ background-image: url(column-template.gif);
+ background-repeat: repeat-y; /* */
+}
+
+DIV#main,
+DIV#committees,
+DIV#past-emnlp
+{ background: #f7f7ff; }
+
+
+#introduction {
+ background-color: #4769AE;
+ background-image: url(seattle-d.jpg);
+ height: 380px;
+}
+
+#footer
+{}
+
+#content P BIG A {
+ color: darkblue;
+}
+
+/*
+     FILE ARCHIVED ON 02:40:42 Aug 08, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:02:27 Sep 07, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.361
+  exclusion.robots: 0.035
+  exclusion.robots.policy: 0.028
+  esindex: 0.005
+  cdx.remote: 55.24
+  LoadShardBlock: 87.103 (3)
+  PetaboxLoader3.datanode: 69.034 (4)
+  PetaboxLoader3.resolve: 389.504 (2)
+  load_resource: 373.966
+*/
